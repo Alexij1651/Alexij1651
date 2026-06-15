@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Alejandro
 
-<!--
-**Alexij1651/Alexij1651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)** Me interesa el desarrollo full-stack: desde bases de datos y lógica de backend en Java, hasta interfaces web.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** Java, SQL, HTML, CSS, JavaScript
+- **Bases de datos:** MySQL, PostgreSQL
+- **Herramientas:** NetBeans, Git/GitHub, Canva
+- **En proceso de aprender:** *Python,C++ y C#*
+
+## 📌 Proyectos destacados
+
+### 🗄️ Sistema de gestión con roles (Java + MySQL/PostgreSQL)
+Aplicación de consola y GUI (Swing) con operaciones CRUD y control de acceso por roles, conectada a bases de datos MySQL y PostgreSQL.
+- Tecnologías: Java, JDBC, Swing, MySQL, PostgreSQL
+- [Ver repositorio](enlace-al-repo)
+
+## 📫 Contacto
+
+- LinkedIn: [tu perfil](enlace)
+- Email: Alejandro01Personal@proton.me
+
+---
+*Perfil en construcción — añadiré nuevos proyectos a lo largo del verano.*
