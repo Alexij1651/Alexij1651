@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Alejandro
+# ¡Hola! Soy Alejandro
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** Me interesa el desarrollo full-stack: desde bases de datos y lógica de backend en Java, hasta interfaces web.
 
@@ -14,7 +14,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** Me interesa el desarrollo
 ### 🗄️ Sistema de gestión con roles (Java + MySQL/PostgreSQL)
 Aplicación de consola y GUI (Swing) con operaciones CRUD y control de acceso por roles, conectada a bases de datos MySQL y PostgreSQL.
 - Tecnologías: Java, JDBC, Swing, MySQL, PostgreSQL
-- [Ver repositorio](enlace-al-repo)
+- [Ver repositorio](https://github.com/Alexij1651/proyecto-crud-java-bbdd)
 
 ## 📫 Contacto
 
