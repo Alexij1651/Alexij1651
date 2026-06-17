@@ -19,7 +19,7 @@ Aplicación de consola y GUI (Swing) con operaciones CRUD y control de acceso po
 ## 📫 Contacto
 
 - LinkedIn: [tu perfil](www.linkedin.com/in/alejandro-ibañez-93b53b2b5)
-- Email: Alejandro01Personal@proton.me
+- Email: ibaneza05@gmail.com
 
 ---
 *Perfil en construcción — añadiré nuevos proyectos a lo largo del verano.*
