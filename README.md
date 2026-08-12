@@ -29,4 +29,4 @@ Aplicación web de seguimiento en vivo de resultados de Fórmula 1, con actualiz
 - Email: ibaneza05@gmail.com
 
 ---
-*Perfil en construcción — añadiré nuevos proyectos a lo largo del verano.*
+*Perfil en construcción —*
