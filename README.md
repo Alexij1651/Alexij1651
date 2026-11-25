@@ -1,14 +1,15 @@
 # ¡Hola! Soy Alejandro
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** 
-Me interesa el desarrollo full-stack: desde bases de datos y lógica de backend en Java, hasta interfaces web.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
+Me interesa el desarrollo full-stack: desde bases de datos y lógica de backend, hasta interfaces web.
 
 ## 🛠 Tecnologías y herramientas
 
 - **Lenguajes:** Java, SQL, HTML, CSS, JavaScript
-- **Bases de datos:** MySQL, PostgreSQL
-- **Herramientas:** NetBeans, Git/GitHub, Canva
-- **En proceso de aprender:** *Python,C++ y C#*
+- **Backend:** Node.js, Express, API REST, autenticación JWT
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
+- **Herramientas:** NetBeans, Git/GitHub, Swagger/OpenAPI, Vercel, Canva
+- **En proceso de aprender:** *Python, C++ y C#*
 
 ## 📌 Proyectos destacados
 
@@ -23,10 +24,14 @@ Aplicación web de seguimiento en vivo de resultados de Fórmula 1, con actualiz
 - [Ver demo en vivo](https://alexij1651.github.io/F1-proyecto/)
 · [Ver repositorio](https://github.com/Alexij1651/F1-proyecto)
 
-## 📫 Contacto
+### 🔧 Engine Scrapyard API (Node.js + Express + MongoDB)
+API REST para gestionar un catálogo de motores y sus usuarios, con autenticación JWT (access y refresh token), contraseñas cifradas con bcrypt, límite de peticiones y documentación interactiva con Swagger.
+- Tecnologías: Node.js, Express, MongoDB, JWT, bcrypt, Swagger/OpenAPI, Vercel
+- [Ver repositorio](https://github.com/Alexij1651/DWESApiAIJ)
 
-- LinkedIn: [tu perfil](www.linkedin.com/in/alejandro-ibañez-93b53b2b5)
+## 📫 Contacto
 - Email: ibaneza05@gmail.com
+- GitHub: [@Alexij1651](https://github.com/Alexij1651)
 
 ---
 *Perfil en construcción —*
